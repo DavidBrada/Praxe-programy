@@ -1,0 +1,7 @@
+using System;
+
+namespace RockPaperScissors;
+
+public interface IPlayer{
+    Choice GetChoice();
+}

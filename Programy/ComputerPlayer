@@ -1,0 +1,13 @@
+using System;
+
+namespace RockPaperScissors;
+
+public class ComputerPlayer : IPlayer
+{
+    Random rnd = new Random();
+    public Choice GetChoice()
+    {
+        Choice p2 = (Choice)rnd.Next(0, 3);
+        return p2;
+    }
+}
