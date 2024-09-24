@@ -1,0 +1,14 @@
+C:\Users\uih05153\Desktop\Programy\json_program\bin\Debug\net8.0\json_program.exe
+C:\Users\uih05153\Desktop\Programy\json_program\bin\Debug\net8.0\json_program.deps.json
+C:\Users\uih05153\Desktop\Programy\json_program\bin\Debug\net8.0\json_program.runtimeconfig.json
+C:\Users\uih05153\Desktop\Programy\json_program\bin\Debug\net8.0\json_program.dll
+C:\Users\uih05153\Desktop\Programy\json_program\bin\Debug\net8.0\json_program.pdb
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.AssemblyInfoInputs.cache
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.AssemblyInfo.cs
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.csproj.CoreCompileInputs.cache
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.dll
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\refint\json_program.dll
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.pdb
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\json_program.genruntimeconfig.cache
+C:\Users\uih05153\Desktop\Programy\json_program\obj\Debug\net8.0\ref\json_program.dll

@@ -1,0 +1,11 @@
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.AssemblyInfoInputs.cache
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.AssemblyInfo.cs
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.deps.json
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.dll
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\bin\Debug\net8.0\MyMathLibrary.pdb
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.dll
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\refint\MyMathLibrary.dll
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\MyMathLibrary.pdb
+C:\Users\uih05153\Desktop\Programy\unit_testy\MyMathLibrary\obj\Debug\net8.0\ref\MyMathLibrary.dll

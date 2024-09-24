@@ -1,0 +1,14 @@
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\bin\Debug\net8.0\VypocetCisteMzdy.exe
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\bin\Debug\net8.0\VypocetCisteMzdy.deps.json
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\bin\Debug\net8.0\VypocetCisteMzdy.runtimeconfig.json
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\bin\Debug\net8.0\VypocetCisteMzdy.dll
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\bin\Debug\net8.0\VypocetCisteMzdy.pdb
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.AssemblyInfoInputs.cache
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.AssemblyInfo.cs
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.csproj.CoreCompileInputs.cache
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.dll
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\refint\VypocetCisteMzdy.dll
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.pdb
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\VypocetCisteMzdy.genruntimeconfig.cache
+C:\Users\uih05153\Desktop\Programy\VypocetMzdy\VypocetCisteMzdy\obj\Debug\net8.0\ref\VypocetCisteMzdy.dll

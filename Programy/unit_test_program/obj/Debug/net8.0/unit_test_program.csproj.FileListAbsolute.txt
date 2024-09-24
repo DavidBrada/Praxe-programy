@@ -1,0 +1,14 @@
+C:\Users\uih05153\Desktop\Programy\unit_test_program\bin\Debug\net8.0\unit_test_program.exe
+C:\Users\uih05153\Desktop\Programy\unit_test_program\bin\Debug\net8.0\unit_test_program.deps.json
+C:\Users\uih05153\Desktop\Programy\unit_test_program\bin\Debug\net8.0\unit_test_program.runtimeconfig.json
+C:\Users\uih05153\Desktop\Programy\unit_test_program\bin\Debug\net8.0\unit_test_program.dll
+C:\Users\uih05153\Desktop\Programy\unit_test_program\bin\Debug\net8.0\unit_test_program.pdb
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.AssemblyInfoInputs.cache
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.AssemblyInfo.cs
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.csproj.CoreCompileInputs.cache
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.dll
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\refint\unit_test_program.dll
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.pdb
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\unit_test_program.genruntimeconfig.cache
+C:\Users\uih05153\Desktop\Programy\unit_test_program\obj\Debug\net8.0\ref\unit_test_program.dll
