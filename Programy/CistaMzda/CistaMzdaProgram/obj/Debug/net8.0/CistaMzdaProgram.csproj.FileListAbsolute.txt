@@ -1,0 +1,14 @@
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.AssemblyInfoInputs.cache
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.AssemblyInfo.cs
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.csproj.CoreCompileInputs.cache
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.dll
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\refint\CistaMzdaProgram.dll
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.pdb
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\bin\Debug\net8.0\CistaMzdaProgram.exe
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\bin\Debug\net8.0\CistaMzdaProgram.deps.json
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\bin\Debug\net8.0\CistaMzdaProgram.runtimeconfig.json
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\bin\Debug\net8.0\CistaMzdaProgram.dll
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\bin\Debug\net8.0\CistaMzdaProgram.pdb
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\CistaMzdaProgram.genruntimeconfig.cache
+c:\Users\uih05153\Desktop\Programy\CistaMzda\CistaMzdaProgram\obj\Debug\net8.0\ref\CistaMzdaProgram.dll
