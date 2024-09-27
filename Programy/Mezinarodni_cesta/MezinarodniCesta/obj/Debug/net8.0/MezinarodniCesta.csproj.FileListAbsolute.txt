@@ -1,0 +1,14 @@
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\bin\Debug\net8.0\MezinarodniCesta.exe
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\bin\Debug\net8.0\MezinarodniCesta.deps.json
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\bin\Debug\net8.0\MezinarodniCesta.runtimeconfig.json
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\bin\Debug\net8.0\MezinarodniCesta.dll
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\bin\Debug\net8.0\MezinarodniCesta.pdb
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.AssemblyInfoInputs.cache
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.AssemblyInfo.cs
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.csproj.CoreCompileInputs.cache
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.dll
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\refint\MezinarodniCesta.dll
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.pdb
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\MezinarodniCesta.genruntimeconfig.cache
+C:\Users\uih05153\Desktop\Programy\Mezinarodni_cesta\MezinarodniCesta\obj\Debug\net8.0\ref\MezinarodniCesta.dll
